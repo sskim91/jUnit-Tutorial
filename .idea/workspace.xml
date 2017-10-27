@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb8f73b-3a5d-40d0-9835-2c2b64e59c07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BasicAnnotation/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BasicAnnotationTest.java" afterPath="$PROJECT_DIR$/src/BasicAnnotation/BasicAnnotationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/README.md" afterPath="$PROJECT_DIR$/src/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +18,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="BasicAnnotationTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BasicAnnotationTest.java">
+        <entry file="file://$PROJECT_DIR$/src/BasicAnnotation/BasicAnnotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicAnnotation/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+                <folding>
+                  <marker date="1509107013000" expanded="false" signature="440:451" ph=" { " />
+                  <marker date="1509107013000" expanded="false" signature="507:513" ph=" }" />
+                  <marker date="1509107013000" expanded="false" signature="602:613" ph=" { " />
+                  <marker date="1509107013000" expanded="false" signature="667:673" ph=" }" />
+                  <marker date="1509107013000" expanded="false" signature="724:735" ph=" { " />
+                  <marker date="1509107013000" expanded="false" signature="787:793" ph=" }" />
+                  <marker date="1509107013000" expanded="false" signature="842:853" ph=" { " />
+                  <marker date="1509107013000" expanded="false" signature="903:909" ph=" }" />
+                  <marker date="1509107013000" expanded="false" signature="952:963" ph=" { " />
+                  <marker date="1509107013000" expanded="false" signature="1007:1013" ph=" }" />
+                  <marker date="1509107013000" expanded="false" signature="1056:1067" ph=" { " />
+                  <marker date="1509107013000" expanded="false" signature="1111:1117" ph=" }" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -33,22 +57,9 @@
         <entry file="file://$PROJECT_DIR$/src/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-                <folding>
-                  <marker date="1509105869000" expanded="false" signature="440:451" ph=" { " />
-                  <marker date="1509105869000" expanded="false" signature="507:513" ph=" }" />
-                  <marker date="1509105869000" expanded="false" signature="602:613" ph=" { " />
-                  <marker date="1509105869000" expanded="false" signature="667:673" ph=" }" />
-                  <marker date="1509105869000" expanded="false" signature="724:735" ph=" { " />
-                  <marker date="1509105869000" expanded="false" signature="787:793" ph=" }" />
-                  <marker date="1509105869000" expanded="false" signature="842:853" ph=" { " />
-                  <marker date="1509105869000" expanded="false" signature="903:909" ph=" }" />
-                  <marker date="1509105869000" expanded="false" signature="952:963" ph=" { " />
-                  <marker date="1509105869000" expanded="false" signature="1007:1013" ph=" }" />
-                  <marker date="1509105869000" expanded="false" signature="1056:1067" ph=" { " />
-                  <marker date="1509105869000" expanded="false" signature="1111:1117" ph=" }" />
-                </folding>
+              <first_editor relative-caret-position="306">
+                <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -76,6 +87,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/BasicAnnotationTest.java" />
+        <option value="$PROJECT_DIR$/src/BasicAnnotation/BasicAnnotationTest.java" />
+        <option value="$PROJECT_DIR$/src/BasicAnnotation/README.md" />
         <option value="$PROJECT_DIR$/src/README.md" />
       </list>
     </option>
@@ -124,6 +137,12 @@
             </path>
             <path>
               <item name="jUnit-Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jUnit-Tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicAnnotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jUnit-Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -140,6 +159,11 @@
     <property name="project.structure.side.proportion" value="0.2266187" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/BasicAnnotation" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -318,7 +342,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509028351176</updated>
       <workItem from="1509028352457" duration="3336000" />
-      <workItem from="1509104028316" duration="1133000" />
+      <workItem from="1509104028316" duration="2471000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1509030005615</created>
@@ -334,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509034279263</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add README.md">
+      <created>1509105885620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509105885621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -355,7 +386,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4469000" />
+    <option name="totallyTimeSpent" value="5807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -400,14 +431,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BasicAnnotationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BasicAnnotation/BasicAnnotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -422,33 +454,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicAnnotationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BasicAnnotation/BasicAnnotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicAnnotation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <folding>
+              <marker date="1509107013000" expanded="false" signature="440:451" ph=" { " />
+              <marker date="1509107013000" expanded="false" signature="507:513" ph=" }" />
+              <marker date="1509107013000" expanded="false" signature="602:613" ph=" { " />
+              <marker date="1509107013000" expanded="false" signature="667:673" ph=" }" />
+              <marker date="1509107013000" expanded="false" signature="724:735" ph=" { " />
+              <marker date="1509107013000" expanded="false" signature="787:793" ph=" }" />
+              <marker date="1509107013000" expanded="false" signature="842:853" ph=" { " />
+              <marker date="1509107013000" expanded="false" signature="903:909" ph=" }" />
+              <marker date="1509107013000" expanded="false" signature="952:963" ph=" { " />
+              <marker date="1509107013000" expanded="false" signature="1007:1013" ph=" }" />
+              <marker date="1509107013000" expanded="false" signature="1056:1067" ph=" { " />
+              <marker date="1509107013000" expanded="false" signature="1111:1117" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-            <folding>
-              <marker date="1509105869000" expanded="false" signature="440:451" ph=" { " />
-              <marker date="1509105869000" expanded="false" signature="507:513" ph=" }" />
-              <marker date="1509105869000" expanded="false" signature="602:613" ph=" { " />
-              <marker date="1509105869000" expanded="false" signature="667:673" ph=" }" />
-              <marker date="1509105869000" expanded="false" signature="724:735" ph=" { " />
-              <marker date="1509105869000" expanded="false" signature="787:793" ph=" }" />
-              <marker date="1509105869000" expanded="false" signature="842:853" ph=" { " />
-              <marker date="1509105869000" expanded="false" signature="903:909" ph=" }" />
-              <marker date="1509105869000" expanded="false" signature="952:963" ph=" { " />
-              <marker date="1509105869000" expanded="false" signature="1007:1013" ph=" }" />
-              <marker date="1509105869000" expanded="false" signature="1056:1067" ph=" { " />
-              <marker date="1509105869000" expanded="false" signature="1111:1117" ph=" }" />
-            </folding>
+          <first_editor relative-caret-position="306">
+            <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
