@@ -31,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/BasicAnnotation/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
+              <first_editor relative-caret-position="22">
                 <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
                 <folding>
                   <marker date="1509107013000" expanded="false" signature="440:451" ph=" { " />
@@ -57,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/src/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <first_editor relative-caret-position="351">
+                <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -342,7 +342,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509028351176</updated>
       <workItem from="1509028352457" duration="3336000" />
-      <workItem from="1509104028316" duration="2471000" />
+      <workItem from="1509104028316" duration="2658000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1509030005615</created>
@@ -365,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509105885621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add README.md">
+      <created>1509107424061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509107424061</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -386,7 +393,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5807000" />
+    <option name="totallyTimeSpent" value="5994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -465,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/src/BasicAnnotation/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
+          <first_editor relative-caret-position="22">
             <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             <folding>
               <marker date="1509107013000" expanded="false" signature="440:451" ph=" { " />
@@ -489,8 +496,8 @@
     <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <first_editor relative-caret-position="351">
+            <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
             <folding />
           </first_editor>
           <second_editor />
