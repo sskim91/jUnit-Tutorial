@@ -1,3 +1,5 @@
+package BasicAnnotation;
+
 import org.junit.*;
 
 public class BasicAnnotationTest {
